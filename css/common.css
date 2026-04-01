@@ -1,0 +1,37 @@
+@import url('//fonts.googleapis.com/earlyaccess/nanummyeongjo.css');
+
+:root{
+    --main-yellow: #ffb800;
+    --main-red: #dd1227;
+    --main-blue: #002078;
+}
+.w1420{
+    max-width: 1420px;
+    margin: 0 auto;
+}
+.w100{
+    width: 100%;
+}
+.flex{
+    display: flex;
+}
+.nmj{
+    font-family: 'Nanum Myeongjo', serif;
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* 슬라이드 */
+.container{
+    position: relative;
+}
+.slide_box{
+    width: 300%;
+    display: flex;
+    overflow: hidden;
+}
+.slide a{
+    display: block;
+    font-size: 14px;
+    color: #000;
+}
