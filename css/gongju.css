@@ -629,13 +629,13 @@ nav li + li::before{
 }
 /* section5 */
 .sec5{
-    justify-content: space-between;
+    justify-content: center;
+    gap: 20px;
     height: 770px;
     margin-top: 185px;
 }
 .sec5>article{
-    width: calc(100% - 490px);
-    height: 100%;
+    width: 1420px;
     background-image: url(../img/exhibition1.jpg);
     background-repeat: no-repeat;
     position: relative;
