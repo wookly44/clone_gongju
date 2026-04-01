@@ -1,22 +1,22 @@
 # 프로젝트 이름
 
-> 한 줄 프로젝트 설명
+> JavaScript와 jQuery를 활용한 공주박물관 웹사이트 클론 코딩 프로젝트
 
 <img width="1009" height="905" alt="gongju" src="https://github.com/user-attachments/assets/3b904e45-98b0-4f03-b2f1-dd171c0bb4cf" />
 
 ## 🔗 링크
-- **배포 링크**: [바로가기](배포 URL)
+- **배포 링크**: https://clone-gongju.vercel.app/
 - **참고한 원본 사이트**: https://gongju.museum.go.kr/kor/index.do
 
 ---
 
 ## 🛠 기술 스택
 
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-FFC1CC?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-FFD8A8?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFEBA1?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img alt="jQuery" src="https://img.shields.io/badge/jQuery-FCEAF6?style=for-the-badge&logo=jquery&logoColor=black"/>
-<img alt="AOS" src="https://img.shields.io/badge/AOS-FFE6F2?style=for-the-badge"/>
+![HTML5](https://img.shields.io/badge/HTML5-FFC1CC?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FFD8A8?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFEBA1?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-FCEAF6?style=for-the-badge&logo=jquery&logoColor=black)
+![AOS](https://img.shields.io/badge/AOS-FFE6F2?style=for-the-badge)
 
 ---
 
