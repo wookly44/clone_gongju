@@ -1,6 +1,6 @@
-# 프로젝트 이름
+# 공주 박물관 클론 코딩
 
-> JavaScript와 jQuery를 활용한 공주박물관 웹사이트 클론 코딩 프로젝트
+> 
 
 <img width="1009" height="905" alt="gongju" src="https://github.com/user-attachments/assets/3b904e45-98b0-4f03-b2f1-dd171c0bb4cf" />
 
