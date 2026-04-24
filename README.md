@@ -5,8 +5,8 @@
 <img width="1009" height="905" alt="gongju" src="https://github.com/user-attachments/assets/3b904e45-98b0-4f03-b2f1-dd171c0bb4cf" />
 
 ## 🔗 링크
-- **배포 링크**: https://clone-gongju.vercel.app/
-- **참고한 원본 사이트**: https://gongju.museum.go.kr/kor/index.do
+- **배포 링크**: [바로가기](https://clone-gongju.vercel.app/)
+- **참고한 원본 사이트**: [공주박물관](https://gongju.museum.go.kr/kor/index.do)
 
 ---
 
